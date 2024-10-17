@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Sultanov</h1>
 <h3 align="center">A passionate Software developer from Azerbaijan</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
+<!--<img align="right" alt="coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">!-->
 
 - 📝 I regularly write articles on [https://medium.com/@muhammedsultanov](https://medium.com/@muhammedsultanov)
 
@@ -28,9 +28,9 @@
 
 <img align="center" alt="coding" width="400" src="https://www.coindesk.com/resizer/RFWWB56k_zCrXRoxlaFM0A3N874=/567x561/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GNYP26OXSRH3TCU6ISRYQPUW34.gif">
 
-<img align="center" alt="coding" width="400" src="https://media1.tenor.com/m/MH0ziTog4eYAAAAC/homelander-the-boys-season3.gif">
+<!--<img align="center" alt="coding" width="400" src="https://media1.tenor.com/m/MH0ziTog4eYAAAAC/homelander-the-boys-season3.gif">
 <img align="center" alt="coding" width="400" src="https://i.kym-cdn.com/photos/images/original/002/403/577/df9.gif">
 <img align="center" alt="coding" width="400" src="https://s8d4.turboimg.net/sp/845598da4f82add3fa713145adfec31d/the-boys-homelander.gif">
 <img align="center" alt="coding" width="400" src="https://i.makeagif.com/media/10-26-2017/anXNiX.gif">
-<img align="center" alt="coding" width="400" src="https://media.tenor.com/6W-8noYM-yMAAAAM/kaanflix-kaanflix-kedisini-yiyor.gif">
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/6W-8noYM-yMAAAAM/kaanflix-kaanflix-kedisini-yiyor.gif">-->
 
